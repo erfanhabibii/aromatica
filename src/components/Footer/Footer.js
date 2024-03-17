@@ -17,7 +17,7 @@ export default function Footer() {
               <ul className='text-white list-disc mr-5'>
                 <li className="pb-2">
                   <h5 className="pb-0.5">شنبه - پنجشنبه</h5>
-                  <span className='text-gold-100'>7صبح - 11 شب</span>
+                  <span className='text-gold-100'>7صبح - 10 شب</span>
                 </li>
                 <li className="pb-2">
                   <h5 className="pb-0.5">جمعه</h5>
