@@ -161,7 +161,7 @@ export default function Items() {
                   </div>
                   <div className='flex justify-between'>
                     <span className='text-gold-100'>..........</span>
-                    <p className='text-gold-100'>175 هزار تومان</p>
+                    <p className='text-gold-100'>170 هزار تومان</p>
                   </div>
                 </div>
               </div>
