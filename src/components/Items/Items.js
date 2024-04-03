@@ -145,7 +145,7 @@ export default function Items() {
                   </div>
                   <div className='flex justify-between'>
                     <span className='text-gold-100'>..........</span>
-                    <p className='text-gold-100'>200 هزار تومان</p>
+                    <p className='text-gold-100'>210 هزار تومان</p>
                   </div>
                 </div>
               </div>
