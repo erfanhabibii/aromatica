@@ -39,7 +39,7 @@ export default function Footer() {
                   />
                 </svg>
                 <div>
-                  <p className='text-gold-100 max-w-56'>سیرجان، خ ولی عصر، خ بدر شمالی، نبش کوچه دوم</p>
+                  <p className='text-gold-100 max-w-56'>سیرجان، خ آیت الله سعیدی، پاساژ مهر</p>
                 </div>
               </div>
               <div className='flex gap-2 items-center'>
@@ -58,11 +58,11 @@ export default function Footer() {
         </div>
         <hr className='opacity-20 my-4 container' />
         <div className='text-white/70 pb-4 grid md:grid-cols-2 lg:grid-cols-3 container'>
-          <p className='pl-4'>©تمامی حقوق برای نُوآزِن محفوظ میباشد.</p>
+          <p className='pl-3'>©تمامی حقوق برای آروماتیکا محفوظ میباشد.</p>
           <p className="lg:col-start-3">
             توسعه و طراحی توسط{" "}
             <span>
-              <a href='https://novazen.ir/' className='text-[#48654B]/80'>
+              <a href='https://novazen.ir/' className='text-gold-100'>
                 Novazen
               </a>
             </span>
