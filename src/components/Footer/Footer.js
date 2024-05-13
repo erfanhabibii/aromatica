@@ -62,7 +62,7 @@ export default function Footer() {
           <p className="lg:col-start-3">
             توسعه و طراحی توسط{" "}
             <span>
-              <a href='https://novazen.ir/' className='text-gold-100'>
+              <a href='https://novazen.ir/' target="_blank" className='text-gold-100'>
                 Novazen
               </a>
             </span>
