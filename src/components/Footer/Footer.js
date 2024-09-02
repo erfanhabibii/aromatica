@@ -3,7 +3,7 @@ import React from "react";
 export default function Footer() {
   return (
     <>
-      <div id='callus' className='bg-black relative'>
+      <div id='callus' className='bg-zinc-950 relative'>
         <div className='container grid grid-cols-1 lg:grid-cols-3 pt-10 z-10'>
           <div className='pb-10'>
             <div className='flex sm:justify-start items-center gap-2'>
@@ -62,9 +62,9 @@ export default function Footer() {
           <p className="lg:col-start-3">
             توسعه و طراحی توسط{" "}
             <span>
-              <a href='https://novazen.ir/' target="_blank" className='text-gold-100'>
-                Novazen
-              </a>
+              <span className='text-gold-100'>
+                Zerotix
+              </span>
             </span>
           </p>
         </div>

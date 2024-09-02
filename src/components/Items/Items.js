@@ -22,7 +22,7 @@ export default function Items() {
           <h2 className="text-white text-3xl font-MorabbaMedium py-10 pt-0 lg:text-center">
             منو قهوه آروماتیکا
           </h2>
-          <div className="bg-black w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="bg-zinc-950 w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
             <div>
               <div className="p-4 flex">
                 <img
@@ -230,7 +230,7 @@ export default function Items() {
           <h2 className="text-white text-3xl font-MorabbaMedium py-10 pt-0 lg:text-center">
             منو ناهار آروماتیکا
           </h2>
-          <div className="bg-black w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="bg-zinc-950 w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
             <div>
               <div className="p-4 flex">
                 <img
