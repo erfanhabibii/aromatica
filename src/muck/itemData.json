@@ -1,0 +1,21 @@
+{
+  "coffee": [
+    { "title": "اسپرسو", "desc": "قهوه 100 عربیکا", "price": "35", "hrClass": "", "img": "menu3.jpg" },
+    { "title": "اسپرسو", "desc": "قهوه 50 عربیکا", "price": "35", "hrClass": "", "img": "menu3.jpg" },
+    { "title": "لاته", "desc": "اسپرسو + شیر", "price": "50", "hrClass": "", "img": "menu4.jpg" },
+    { "title": "آمریکانو", "desc": "اسپرسو + آب", "price": "40", "hrClass": "", "img": "menu5.jpg" },
+    { "title": "کاپوچینو", "desc": "اسپرسو + شیر + شکر", "price": "65", "hrClass": "", "img": "menu1.jpg" },
+    { "title": "ماکیاتو", "desc": "اسپرسو + شیر + عسل + سیروپ", "price": "120", "hrClass": "", "img": "menu6.jpg" },
+    { "title": "چای", "desc": "چای ایرانی", "price": "50", "hrClass": "lg:hidden", "img": "menu7.jpg" },
+    { "title": "چای سبز", "desc": "چای سبز", "price": "55", "hrClass": "lg:hidden", "img": "menu8.jpg" },
+    { "title": "چای ترش", "desc": "چای ترش", "price": "65", "hrClass": "hidden", "img": "menu9.jpg" }
+  ],
+  "lunch": [
+    { "title": "سوخاری 3 تیکه", "desc": "ران مرغ + ارد سوخاری + سیب سرخ کرده", "price": "130", "hrClass": "", "img": "menu_r1.jpg" },
+    { "title": "چینی سبزیجات", "desc": "خرچنگ + سبزیجات + رشته", "price": "210", "hrClass": "", "img": "menu_r3.jpg" },
+    { "title": "لامزستر", "desc": "نان + گوجه + خیارسبز + کاهو + سس", "price": "170", "hrClass": "", "img": "menu_r5.jpg" },
+    { "title": "ماهی کبابی", "desc": "ماهی + دورچین", "price": "230", "hrClass": "lg:hidden", "img": "menu_r6.jpg" },
+    { "title": "سوسیس", "desc": "سوسیس + سبزی", "price": "90", "hrClass": "lg:hidden", "img": "menu_r7.jpg" },
+    { "title": "ماکارونی", "desc": "ماکارونی + سس مخصوص", "price": "120", "hrClass": "hidden", "img": "menu_r4.jpg" }
+  ]
+}
